@@ -25,3 +25,11 @@ ID Name Salary
 2. Search employee by ID
 3. Exit
 Enter your choice: 2
+Enter ID to search: 102
+Found: ID=102 Name=Bala Salary=52000.00
+--- Employee Record Menu ---
+1. Display all employees
+2. Search employee by ID
+3. Exit
+Enter your choice: 3
+Exiting program.
